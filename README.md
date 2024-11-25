@@ -7,11 +7,12 @@ My name is **Rozakul Barkhi**. I am a _Software Engineer_ 🥶 <br />
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2024 - To: 24 November 2024
+From: 24 November 2024 - To: 25 November 2024
 
-Total Time: 0 secs
+Total Time: 3 hrs 26 mins
 
-No activity tracked
+JSON         1 hr 45 mins    ████████████▓░░░░░░░░░░░░   51.32 %
+TypeScript   1 hr 40 mins    ████████████▒░░░░░░░░░░░░   48.68 %
 ```
 
 <!--END_SECTION:waka-->
