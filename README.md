@@ -5,5 +5,14 @@ My name is **Rozakul Barkhi**. I am a _Software Engineer_ 🥶 <br />
 
 <div align="center">
 <!--START_SECTION:waka-->
+
+```txt
+From: 24 November 2024 - To: 24 November 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 </div>
