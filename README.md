@@ -46,6 +46,9 @@ TypeScript   1 hr 40 mins    ████████████▒░░░░
   <a href="https://github.com/rozakulbarkhi">
     <img src="https://github-readme-stats.vercel.app/api?username=rozakulbarkhi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Rozakul's github stats" width="440x" />
   </a>
+  <a href="https://github.com/rozakulbarkhi">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rozakulbarkhi&theme=tokyo-night&hide_border=false" alt="Rozakul's activity graph" />
+  </a>
 </div>
 
 <br />
@@ -56,9 +59,9 @@ TypeScript   1 hr 40 mins    ████████████▒░░░░
 
 <div align="center">
   <a href="https://leetcode.com/rozakulbarkhi/">
-    <img src="https://leetcard.jacoblin.cool/rozakulbarkhi?ext=contest" width="460px" align="left" />
+    <img src="https://leetcard.jacoblin.cool/rozakulbarkhi?ext=contest" width="400px" align="left" />
   </a>
   <a href="https://www.codewars.com/users/rozakulbarkhi">
-    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=rozakulbarkhi&theme=dark" width="460px" align="right" />
+    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=rozakulbarkhi&theme=dark" width="400px" align="right" />
   </a>
 </div>
