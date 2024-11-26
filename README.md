@@ -7,7 +7,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 <div>
-My name is **Rozakul Barkhi**. I am a Software Engineer 🥶 <br />
+My name is Rozakul Barkhi. I am a Software Engineer 🥶 <br />
 · 🌱 I’m currently learning Web Development <br />
 · 📫 How to reach me: https://www.linkedin.com/in/rozakul-barkhi <br />
 </div>
