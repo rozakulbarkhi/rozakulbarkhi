@@ -2,13 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋"; alt="Welcoming text"/>
 </div>
 
+![](https://komarev.com/ghpvc/?username=rozakulbarkhi&color=blue)
+
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 <div>
 My name is **Rozakul Barkhi**. I am a Software Engineer 🥶 <br />
 · 🌱 I’m currently learning Web Development <br />
 · 📫 How to reach me: https://www.linkedin.com/in/rozakul-barkhi <br />
-![](https://komarev.com/ghpvc/?username=rozakulbarkhi&color=blue)
 </div>
 
 <br />
