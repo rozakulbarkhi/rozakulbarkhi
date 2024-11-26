@@ -1,9 +1,22 @@
-### Hi there 👋
-My name is **Rozakul Barkhi**. I am a _Software Engineer_ 🥶 <br />
-· 🌱 I’m currently learning _Web Development_ <br />
-· 📫 How to reach me: https://www.linkedin.com/in/rozakul-barkhi
+<div>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋"; alt="Welcoming text"/>
+</div>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+
+<div>
+My name is **Rozakul Barkhi**. I am a Software Engineer 🥶 <br />
+· 🌱 I’m currently learning Web Development <br />
+· 📫 How to reach me: https://www.linkedin.com/in/rozakul-barkhi <br />
+![](https://komarev.com/ghpvc/?username=rozakulbarkhi&color=blue)
+</div>
+
+<br />
+
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 <div align="center">
+<br />
 <!--START_SECTION:waka-->
 
 ```txt
@@ -16,4 +29,36 @@ TypeScript   1 hr 40 mins    ████████████▒░░░░
 ```
 
 <!--END_SECTION:waka-->
+<br />
+</div>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/rozakulbarkhi">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozakulbarkhi&theme=tokyonight" alt="Rozakul's github stats" align="left" height="365px" />
+  </a>
+  <a href="https://github.com/rozakulbarkhi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rozakulbarkhi&theme=tokyonight&currStreakNum=fe8dab&currStreakLabel=fe8dab" alt="Rozakul's github stats" width="440px" />
+    </a><br />
+  <a href="https://github.com/rozakulbarkhi">
+    <img src="https://github-readme-stats.vercel.app/api?username=rozakulbarkhi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Rozakul's github stats" width="440x" />
+  </a>
+</div>
+
+<br />
+
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+
+<br />
+
+<div align="center">
+  <a href="https://leetcode.com/rozakulbarkhi/">
+    <img src="https://leetcard.jacoblin.cool/rozakulbarkhi?ext=contest" width="460px" align="left" />
+  </a>
+  <a href="https://www.codewars.com/users/rozakulbarkhi">
+    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=rozakulbarkhi&theme=dark" width="460px" align="right" />
+  </a>
 </div>
