@@ -21,15 +21,15 @@ My name is Rozakul Barkhi. I am a Software Engineer 🥶 <br />
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2024 - To: 19 May 2026
+From: 24 November 2024 - To: 20 May 2026
 
-Total Time: 1,406 hrs 23 mins
+Total Time: 1,410 hrs 9 mins
 
-TypeScript                 1,015 hrs 58 mins     ██████████████████░░░░░░░   72.24 %
-JavaScript                 208 hrs 30 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 %
-Bash                       22 hrs 28 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-Other                      22 hrs 21 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-JSON                       21 hrs 26 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+TypeScript                 1,016 hrs 6 mins      ██████████████████░░░░░░░   72.06 %
+JavaScript                 211 hrs 42 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   15.01 %
+Other                      22 hrs 34 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Bash                       22 hrs 28 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+JSON                       21 hrs 28 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 
 <!--END_SECTION:waka-->
