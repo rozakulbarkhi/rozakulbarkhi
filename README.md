@@ -21,7 +21,7 @@ My name is Rozakul Barkhi. I am a Software Engineer 🥶 <br />
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2024 - To: 29 May 2026
+From: 24 November 2024 - To: 30 May 2026
 
 Total Time: 1,434 hrs 17 mins
 
